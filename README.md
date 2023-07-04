@@ -1,2 +1,2 @@
 # CRTInjection
-example of CreateRemoteThread injection
+example of shellcode CreateRemoteThread injection
